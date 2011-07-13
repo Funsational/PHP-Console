@@ -1,0 +1,11 @@
+[symfony-console]
+    git=http://github.com/symfony/Console.git
+    target=/symfony/src/Symfony/Component/Console
+
+[symfony-class-loader]
+    git=https://github.com/symfony/ClassLoader.git
+    target=/symfony/src/Symfony/Component/ClassLoader
+    
+[symfony-finder]
+    git=http://github.com/symfony/Finder.git
+    target=/symfony/src/Symfony/Component/Finder
